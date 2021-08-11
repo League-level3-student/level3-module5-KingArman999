@@ -23,7 +23,6 @@ public class _00_IntroToRecursion {
 
     public static int countDown(int num) {
         System.out.println("Count Down: " + num);
-        
         // Checks if the num passed in is zero.
         if(num <= 0) {
             System.out.println("STOP!");
